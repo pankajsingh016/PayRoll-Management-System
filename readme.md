@@ -22,5 +22,7 @@ Step 3- You have successfully run the project
 
 ## File Connections Diagram
 <img src="https://github.com/pankajsingh016/PayRoll-Management-System/blob/main/images/file%20connection.png?raw=true" alt="File connection image" width="100%"/><br>
-
+<br>
 ## Program Flow Diagram
+- User will experience the things based on the flow chart given below<br><br>
+<img src="https://github.com/pankajsingh016/PayRoll-Management-System/blob/main/images/PayRoll-Management%20System@2x.png?raw=true" width="100%"/>
