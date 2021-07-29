@@ -26,3 +26,5 @@ Step 3- You have successfully run the project
 ## Program Flow Diagram
 - User will experience the things based on the flow chart given below<br><br>
 <img src="https://github.com/pankajsingh016/PayRoll-Management-System/blob/main/images/PayRoll-Management%20System@2x.png?raw=true" width="100%"/>
+
+Checkout the flow diagram -> https://whimsical.com/payroll-management-system-9t5FoAJohQaabXVKLdyt4u
